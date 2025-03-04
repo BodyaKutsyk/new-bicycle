@@ -12,6 +12,6 @@ In the BIKE web page project, I utilized a combination of HTML, Sass, and BEM
 (Block Element Modifier) methodology to create an engaging and efficient website
 dedicated to showcasing various bikes and related content.
 
--[preview link](https://bodyakutsyk.github.io/mybike-landing/)
+-[preview link](https://bodyakutsyk.github.io/new-bicycle/)
 -[website layout](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 
